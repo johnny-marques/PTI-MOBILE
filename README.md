@@ -1,11 +1,8 @@
-# Sample Snack app
+# PTI - PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Criação de Componentes Funcionais Utilizando React Native
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Card de Produto Gerado:
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+![Captura de tela 2024-05-13 085256](https://github.com/johnny-marques/PTI-MOBILE/assets/44147193/2098d78e-2e1e-4ab4-a006-87f25b9be6c7)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
